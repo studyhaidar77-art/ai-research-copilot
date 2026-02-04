@@ -7,7 +7,7 @@ Built to simulate how modern AI research assistants work — providing cited ans
 ---
 
 ## 🚀 Live Demo
-👉 https://your-app-name.streamlit.app
+👉 https://ai-research-copilot-i6x8tcmwuyue78e5hacgkw.streamlit.app/
 
 ---
 
