@@ -7,7 +7,7 @@ Built to simulate how modern AI research assistants work — providing cited ans
 ---
 
 ## 🚀 Live Demo
-(Coming Soon — Deploying on Streamlit Cloud)
+👉 https://your-app-name.streamlit.app
 
 ---
 
